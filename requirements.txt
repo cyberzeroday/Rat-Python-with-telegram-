@@ -1,0 +1,15 @@
+os
+autopy
+telebot
+from telebot types
+from telebot util
+requests
+platform
+sqlite3
+win32crypt
+win32ui
+pathlib
+sys
+socks
+socket
+urllib3
